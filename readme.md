@@ -12,4 +12,5 @@ This is just a sample implementation showing how messages can be passed to Paper
 ## relevant articles
 
 - https://stackoverflow.com/questions/39114412/handle-errors-and-exceptions-logging-in-node-js
+- https://blog.papertrailapp.com/best-practices-for-logging-in-nodejs/
 - https://github.com/winstonjs/winston#exceptions
