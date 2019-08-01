@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "sniff": "nodemon test.js"
+    },
+    "dependencies": {
+        "dotenv": "^8.0.0",
+        "winston": "^3.2.1",
+        "winston-syslog": "^2.1.0"
+    }
+}
